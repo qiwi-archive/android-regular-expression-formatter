@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    runtime 'com.google.android:android:2.1.2'
+}
