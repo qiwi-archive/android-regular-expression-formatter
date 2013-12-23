@@ -7,5 +7,5 @@ repositories {
 }
 
 dependencies {
-    runtime 'com.google.android:android:2.1.2'
+    compile 'com.google.android:android:2.1.2'
 }
